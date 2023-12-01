@@ -1,9 +1,9 @@
 {
-    "title":"veek",
-    "displayTitle":"veek",
-    "subTitle":"Weekly",
+    "title":"Weekly Log",
+    "displayTitle":"weekly log",
+    "subTitle":"log myself",
     "homeUrl":"http://blog.meekdai.com",
-    "avatarUrl":"http://meekdai.com/avatar.jpg",
+    "avatarUrl":"https://blog.vpromise.fun/img/avatar_hucd9c8449e6e116d2f7056cf533fda203_187363_300x0_resize_box_3.png",
     "faviconUrl":"http://meekdai.com/favicon.ico",
     "singlePage":[],
     "GMEEK_VERSION":"last"
