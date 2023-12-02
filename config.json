@@ -3,8 +3,8 @@
     "displayTitle":"log",
     "subTitle":"Record every day, make every day count!",
     "homeUrl":"https://vpromise.fun",
-    "avatarUrl":"https://github.com/veekly/veekly.github.io/blob/main/img/avatar.png",
-    "faviconUrl":"https://github.com/veekly/veekly.github.io/blob/main/favicon.png",
+    "avatarUrl":"https://raw.githubusercontent.com/veekly/veekly.github.io/main/img/avatar.png",
+    "faviconUrl":"https://raw.githubusercontent.com/veekly/veekly.github.io/main/img/favicon.png",
     "singlePage":[],
     "GMEEK_VERSION":"last"
 }
