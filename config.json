@@ -5,7 +5,7 @@
     "homeUrl":"https://vpromise.fun",
     "avatarUrl":"https://github.com/veekly/veekly.github.io/blob/main/img/avatar.png",
     "faviconUrl":"https://github.com/veekly/veekly.github.io/blob/main/favicon.png",
-    "singlePage":["link","about"],
+    "singlePage":[],
     "GMEEK_VERSION":"last"
     "email":"",
     "startSite":"12/01/2023",
@@ -14,5 +14,4 @@
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "i18n":"CN",
     "nightTheme":"dark_colorblind",
-    "GMEEK_VERSION":"main"
 }
