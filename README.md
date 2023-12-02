@@ -1,1 +1,2 @@
-### Powered by [Gmeek](https://github.com/Meekdai/Gmeek)
+## Weekly Log
+> Powered by [Gmeek](https://github.com/Meekdai/Gmeek)
