@@ -1,17 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Vpromise Log</title><link>https://log.vpromise.fun</link><description>record every day, make every day count!</description><copyright>Vpromise Log</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/veekly/veekly.github.io/main/img/avatar.png</url><title>avatar</title><link>https://log.vpromise.fun</link></image><lastBuildDate>Mon, 25 Dec 2023 02:29:27 +0000</lastBuildDate><managingEditor>Vpromise Log</managingEditor><pubDate>Mon, 25 Dec 2023 02:29:27 +0000</pubDate><ttl>60</ttl><webMaster>Vpromise Log</webMaster><item><title>Week 51</title><link>https://log.vpromise.fun/post/Week%2051.html</link><description>### 学习&#13;
-- 折腾了一圈的数据，不是视频丢帧，不是相机标定误差，居然是最原始视频数据和VICON c3d数据采集就没同步触发&#13;
-- 慎用最新设备，最先进的设备可能是高端的，也可能是没调试好的，很可能就被当小白鼠实验了
-- 还是在人工检查下搞定了数据对齐，好在数据错位很一致，没投入太多工作量，人工智能人工智能，大量人工才能智能
-
-### 生活
-- 迎来初雪，纷纷扬扬，可惜没能积雪，不然还能玩玩雪，想起高三那年打雪仗的壮观场景
-- 老爸生日，今年没给买啥贵重礼物了，给老爸老妈一人一套秋衣，主要是网易严选这套秋衣确实暖和，优衣库的秋衣直接pass了
-- 华挥生日，遗憾没能在成都同聚，送的键盘还喜欢就挺好
-- 苏州最冷的一周，温度几乎一直零下，冷到洗衣机水管冻住，衣服被困几天，冷到水管冻爆，整栋楼哗哗流水，好在要回暖了
-- 这么冷就想念成都的冬天，最起码气温没这么低，去年一个冬天的暖气治愈了那段疫情波折的日子
-
-![image](https://github.com/veekly/veekly.github.io/assets/17079201/e385c773-baae-411c-8464-b68a068b0173)。</description><guid isPermaLink="true">https://log.vpromise.fun/post/Week%2051.html</guid><pubDate>Wed, 20 Dec 2023 03:37:19 +0000</pubDate></item><item><title>Week 50</title><link>https://log.vpromise.fun/post/Week%2050.html</link><description>时间真快，12月已过半&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Vpromise Log</title><link>https://log.vpromise.fun</link><description>record every day, make every day count!</description><copyright>Vpromise Log</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/veekly/veekly.github.io/main/img/avatar.png</url><title>avatar</title><link>https://log.vpromise.fun</link></image><lastBuildDate>Mon, 25 Dec 2023 02:34:22 +0000</lastBuildDate><managingEditor>Vpromise Log</managingEditor><pubDate>Mon, 25 Dec 2023 02:34:22 +0000</pubDate><ttl>60</ttl><webMaster>Vpromise Log</webMaster><item><title>Week 51</title><link>https://log.vpromise.fun/post/Week%2051.html</link><description>### 学习&#13;
+- 折腾了一遍又一遍的数据，不是视频丢帧，不是相机标定误差，居然是最原始视频数据和VICON c3d数据采集就没同步触发&#13;
+- 还是在人工检查下搞定了数据对齐，好在每个subject的数据错位很一致，没投入太多工作量。</description><guid isPermaLink="true">https://log.vpromise.fun/post/Week%2051.html</guid><pubDate>Sun, 24 Dec 2023 12:00:00 +0000</pubDate></item><item><title>Week 50</title><link>https://log.vpromise.fun/post/Week%2050.html</link><description>时间真快，12月已过半&#13;
 &#13;
 ### 学习&#13;
 - ICME果然延期了，也算是个好消息，可以有时间把论文和实验都好好打磨一下了&#13;
