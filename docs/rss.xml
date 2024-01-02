@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Vpromise Log</title><link>https://log.vpromise.fun</link><description>record every day, make every day count!</description><copyright>Vpromise Log</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/veekly/veekly.github.io/main/img/avatar.png</url><title>avatar</title><link>https://log.vpromise.fun</link></image><lastBuildDate>Tue, 02 Jan 2024 16:12:02 +0000</lastBuildDate><managingEditor>Vpromise Log</managingEditor><pubDate>Tue, 02 Jan 2024 16:12:02 +0000</pubDate><ttl>60</ttl><webMaster>Vpromise Log</webMaster><item><title>Week 51</title><link>https://log.vpromise.fun/post/Week%2051.html</link><description>### 学习&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Vpromise Log</title><link>https://log.vpromise.fun</link><description>record every day, make every day count!</description><copyright>Vpromise Log</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/veekly/veekly.github.io/main/img/avatar.png</url><title>avatar</title><link>https://log.vpromise.fun</link></image><lastBuildDate>Tue, 02 Jan 2024 16:13:33 +0000</lastBuildDate><managingEditor>Vpromise Log</managingEditor><pubDate>Tue, 02 Jan 2024 16:13:33 +0000</pubDate><ttl>60</ttl><webMaster>Vpromise Log</webMaster><item><title>Week 52</title><link>https://log.vpromise.fun/post/Week%2052.html</link><description>2023最后一周，不得不感慨时间真快&#13;
+&#13;
+### 学习&#13;
+- 把 ICME 投稿完成，感冒熬夜写论文，梦里还在改论文🤣，在2023最后一天投出了第一篇自己完全独立指导的学生的会议，希望有个好结果&#13;
+- 2024，规划一下论文安排，希望能有多一点产出&#13;
+&#13;
+### 生活&#13;
+- 元旦假期，恰逢华挥在杭州开会，邀请来苏州游玩了两天，节假日人是真的多😂&#13;
+- 去西园寺体验了下数罗汉，解读还挺有意思，放下执念，一切都好&#13;
+- 唯愿崭新的2024一切欣欣向荣，所爱之人都有好运&#13;
+&#13;
+&#13;
+&lt;!-- ##{"timestamp":1704031200}## --&gt;。</description><guid isPermaLink="true">https://log.vpromise.fun/post/Week%2052.html</guid><pubDate>Sun, 31 Dec 2023 14:00:00 +0000</pubDate></item><item><title>Week 51</title><link>https://log.vpromise.fun/post/Week%2051.html</link><description>### 学习&#13;
 - 折腾了一遍又一遍的数据，不是视频丢帧，不是相机标定误差，居然是最原始视频数据和VICON c3d数据采集就没同步触发&#13;
 - 还是在人工检查下搞定了数据对齐，好在每个subject的数据错位很一致，没投入太多工作量。</description><guid isPermaLink="true">https://log.vpromise.fun/post/Week%2051.html</guid><pubDate>Sun, 24 Dec 2023 12:00:00 +0000</pubDate></item><item><title>Week 50</title><link>https://log.vpromise.fun/post/Week%2050.html</link><description>时间真快，12月已过半&#13;
 &#13;
